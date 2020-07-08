@@ -1,0 +1,28 @@
+{
+  "name": "salon-booking",
+  "version": "1.0.0",
+  "description": "salon booking web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeonkaa9/salon-booking.git"
+  },
+  "keywords": [
+    "booking",
+    "react",
+    "node",
+    "mongodb"
+  ],
+  "author": "bianca lujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeonkaa9/salon-booking/issues"
+  },
+  "homepage": "https://github.com/beeonkaa9/salon-booking#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
